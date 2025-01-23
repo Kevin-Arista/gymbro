@@ -1,4 +1,10 @@
---weight [-W] <lbs>
---food   [-F] <name> <cal>
---journal [-J] <body>
---exercise [-E] <name> <reps> <sets>
+<< gymbro settings >>
+Usage:
+    ./gymbro [arguments] [content]
+
+Arguments:
+    --weight [-W] <lbs>
+    --food   [-F] <name> <cal>
+    --journal [-J] <body>
+    --exercise [-E] <name> <reps> <sets>
+
